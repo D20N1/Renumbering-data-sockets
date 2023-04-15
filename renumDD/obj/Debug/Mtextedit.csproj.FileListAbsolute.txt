@@ -1,0 +1,8 @@
+C:\Users\dan\Desktop\C vezbanje autocad\Mtextedit\bin\Debug\Mtextedit.dll
+C:\Users\dan\Desktop\C vezbanje autocad\Mtextedit\bin\Debug\Mtextedit.pdb
+C:\Users\dan\Desktop\C vezbanje autocad\Mtextedit\obj\Debug\Mtextedit.csprojAssemblyReference.cache
+C:\Users\dan\Desktop\C vezbanje autocad\Mtextedit\obj\Debug\Mtextedit.MyCommands.resources
+C:\Users\dan\Desktop\C vezbanje autocad\Mtextedit\obj\Debug\Mtextedit.csproj.GenerateResource.cache
+C:\Users\dan\Desktop\C vezbanje autocad\Mtextedit\obj\Debug\Mtextedit.csproj.CoreCompileInputs.cache
+C:\Users\dan\Desktop\C vezbanje autocad\Mtextedit\obj\Debug\Mtextedit.dll
+C:\Users\dan\Desktop\C vezbanje autocad\Mtextedit\obj\Debug\Mtextedit.pdb

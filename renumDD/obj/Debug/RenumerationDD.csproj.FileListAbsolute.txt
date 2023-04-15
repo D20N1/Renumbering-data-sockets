@@ -1,0 +1,16 @@
+C:\Users\dan\Desktop\C vezbanje autocad\Mtextedit\bin\Debug\Mtextedit.dll
+C:\Users\dan\Desktop\C vezbanje autocad\Mtextedit\bin\Debug\Mtextedit.pdb
+C:\Users\dan\Desktop\C vezbanje autocad\Mtextedit\obj\Debug\Mtextedit.MyCommands.resources
+C:\Users\dan\Desktop\C vezbanje autocad\Mtextedit\obj\Debug\RenumerationDD.csproj.GenerateResource.cache
+C:\Users\dan\Desktop\C vezbanje autocad\Mtextedit\obj\Debug\RenumerationDD.csproj.CoreCompileInputs.cache
+C:\Users\dan\Desktop\C vezbanje autocad\Mtextedit\obj\Debug\Mtextedit.dll
+C:\Users\dan\Desktop\C vezbanje autocad\Mtextedit\obj\Debug\Mtextedit.pdb
+C:\Users\dan\Desktop\C vezbanje autocad\Mtextedit\obj\Debug\RenumerationDD.csprojAssemblyReference.cache
+C:\Users\dan\Desktop\C vezbanje autocad\renumDD\bin\Debug\renumDD.dll
+C:\Users\dan\Desktop\C vezbanje autocad\renumDD\bin\Debug\renumDD.pdb
+C:\Users\dan\Desktop\C vezbanje autocad\renumDD\obj\Debug\Mtextedit.MyCommands.resources
+C:\Users\dan\Desktop\C vezbanje autocad\renumDD\obj\Debug\RenumerationDD.csproj.GenerateResource.cache
+C:\Users\dan\Desktop\C vezbanje autocad\renumDD\obj\Debug\RenumerationDD.csproj.CoreCompileInputs.cache
+C:\Users\dan\Desktop\C vezbanje autocad\renumDD\obj\Debug\renumDD.dll
+C:\Users\dan\Desktop\C vezbanje autocad\renumDD\obj\Debug\renumDD.pdb
+C:\Users\dan\Desktop\C vezbanje autocad\renumDD\obj\Debug\RenumerationDD.csprojAssemblyReference.cache
